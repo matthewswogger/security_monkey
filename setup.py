@@ -57,7 +57,7 @@ setup(
         'Flask-Migrate==2.1.1',
         'Flask-Principal==0.4.0',
         'Flask-RESTful==0.3.6',
-        'Flask-SQLAlchemy==1.0',
+        'Flask-SQLAlchemy==2.3.1',
         'Flask-Script==0.6.3',
         'Flask-Security>=3.0.0',
         'Flask-WTF>=0.14.2',
