@@ -60,7 +60,7 @@ LOG_CFG = {
 AWS_GOVCLOUD = False
 
 
-SQLALCHEMY_DATABASE_URI = 'postgresql://securitymonkeyuser:securitymonkeypassword@localhost:5432/secmonkey'
+SQLALCHEMY_DATABASE_URI = 'postgresql://securitymonkeyuser:securitymonkeypassword@172.17.0.2:5432/secmonkey'
 
 SQLALCHEMY_POOL_SIZE = 50
 SQLALCHEMY_MAX_OVERFLOW = 15
